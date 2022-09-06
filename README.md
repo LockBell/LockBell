@@ -1,10 +1,26 @@
+# The smallest feline is a masterpiece
+<div align=center>
+  <img style="width: 70%;" src="https://github.com/LockBell/LockBell/blob/93bce81ce4464a2eedb4a02d8bdea8133ecf1c9e/image/banner.png?raw=true"/>
+</div>
+
 # LockBell Home
+![](https://metrics.lecoq.io/LockBell)
+
+
+
+<!--
+<table>
+  <td style="width: 40%"><img style="height: auto; width: 59%;" src="https://github.com/LockBell/LockBell/blob/93bce81ce4464a2eedb4a02d8bdea8133ecf1c9e/image/banner.png?raw=true"/></td>
+  <td style="width: 40%"><img style="height: auto; width: 40%;" src="https://metrics.lecoq.io/LockBell"/></td>
+</table>
 
 <div style="text-align: center; vertical-align: middle">
   <img style="height: auto; width: 59%;" src="https://github.com/LockBell/LockBell/blob/93bce81ce4464a2eedb4a02d8bdea8133ecf1c9e/image/banner.png?raw=true" alt=""/>
   <img style="height: auto; width: 40%;" src="https://metrics.lecoq.io/LockBell" alt=""/>
 </div>
 <br>
+
+-->
 
 # With people
 <table>
