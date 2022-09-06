@@ -1,10 +1,12 @@
-# The smallest feline is a masterpiece
+# LockBell Home 
+The smallest feline is a masterpiece - Leonardo da Vinci <br>
+고양이는 신이 만든 최고의 걸작이다 - 레오나르도 다빈치
+
 <div align=center>
   <img style="width: 70%;" src="https://github.com/LockBell/LockBell/blob/93bce81ce4464a2eedb4a02d8bdea8133ecf1c9e/image/banner.png?raw=true"/>
 </div>
 
-# LockBell Home
-![](https://metrics.lecoq.io/LockBell)
+<!--![](https://metrics.lecoq.io/LockBell)-->
 
 
 
@@ -19,7 +21,6 @@
   <img style="height: auto; width: 40%;" src="https://metrics.lecoq.io/LockBell" alt=""/>
 </div>
 <br>
-
 -->
 
 # With people
@@ -37,7 +38,11 @@
     </td>
   </tr>
 </table>
+<br>
 
+# LockBell Specification
+
+![](https://github-readme-stats.vercel.app/api?username=LockBell&show_icons=true)
 
 ## Program Language
 
